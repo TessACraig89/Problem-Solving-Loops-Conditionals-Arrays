@@ -28,15 +28,14 @@
 // e === 'Kevin'
 // 48 == '48'
 
-
-
-
-
-
-
-
 // Write the answers to The Farm here:
-
+// let animal = "cow";
+// if (animal = "cow") {
+//    console.log("mooooo")
+// } else {
+//    console.log("Hey! You're not a cow.")
+// };
+// animal = "dog";
 
 
 
