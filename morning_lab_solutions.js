@@ -11,8 +11,13 @@
 ///////////////////////////////////////////////////
 
 //Write the answers to your String exercises here:
-
-
+// 1. let firstVariable = "Hello World";
+// firstVariable = 5;
+// let secondVaribale = firstVariable
+// secondVaribale = "What's up?"
+// "Hello World"
+// 2. const yourName = "Tess";
+// console.log("Hello, my name is " + yourName);
 
 
 
