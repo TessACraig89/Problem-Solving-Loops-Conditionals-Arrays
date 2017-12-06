@@ -19,14 +19,14 @@
 // 2. const yourName = "Tess";
 // console.log("Hello, my name is " + yourName);
 
-
-
-
-
-
-
 // Write the answers to your Boolean exercises here:
-
+// a < b
+// c > d
+// 'Name' === 'Name'
+// a + b === c
+// a * a === d
+// e === 'Kevin'
+// 48 == '48'
 
 
 
