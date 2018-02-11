@@ -1,1 +1,1 @@
-# Problem-Solving-Loops-Conditionals-Arrays
+Practing loopping through arrays
